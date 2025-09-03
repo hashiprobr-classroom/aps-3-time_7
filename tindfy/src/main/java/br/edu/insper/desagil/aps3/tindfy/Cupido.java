@@ -1,3 +1,5 @@
+package br.edu.insper.desagil.aps3.tindfy;
+
 import br.edu.insper.desagil.aps3.tindfy.Usuario;
 
 import java.util.*;
